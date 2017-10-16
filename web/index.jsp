@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  这是一个java ssm 框架的项目
   </body>
 </html>
